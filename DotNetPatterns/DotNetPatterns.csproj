@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp2.1;netstandard11;net40;net45;net46;net47</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Simon Jefferies</Authors>
+    <Company>Simon Jefferies</Company>
+    <Description>This contains interfaces and helper classes for applying C# patterns to your own code.
+
+Commonly Used Types:
+
+- IBuilder
+- ISubscriber
+- Observable
+- Unsubscriber</Description>
+    <PackageReleaseNotes>Added IBuilder interface to assist with the Builder Pattern.
+Added Unsubscriber implementation to assist with the Observer Pattern.
+Added Observable implementation to provide basic implementation.
+Added support for .NET Framework 4.0</PackageReleaseNotes>
+    <Version>1.0.5</Version>
+    <PackageTags>patterns standards builder subscriber observer</PackageTags>
+  </PropertyGroup>
+
+</Project>
