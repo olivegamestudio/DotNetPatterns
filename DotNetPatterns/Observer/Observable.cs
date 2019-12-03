@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DotNetPatterns
+namespace DotNetPatterns.Observer
 {
     public class Observable<T> : IObservable<T>
     {
@@ -41,4 +41,5 @@ namespace DotNetPatterns
             }
         }
     }
+
 }
