@@ -17,7 +17,7 @@ Commonly Used Types:
 Added Unsubscriber implementation to assist with the Observer Pattern.
 Added Observable implementation to provide basic implementation.
 Added support for .NET Framework 4.0</PackageReleaseNotes>
-    <Version>1.0.6</Version>
+    <Version>1.0.7</Version>
     <PackageTags>patterns standards builder subscriber observer</PackageTags>
   </PropertyGroup>
 
