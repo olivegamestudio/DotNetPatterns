@@ -1,4 +1,4 @@
-﻿namespace DotNetPatterns.Singleton
+﻿namespace DotNetPatterns
 {
     public interface ISingleton<T>
     {

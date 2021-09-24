@@ -1,4 +1,4 @@
-﻿namespace DotNetPatterns.Command
+﻿namespace DotNetPatterns
 {
     public interface ICommand
     {

@@ -1,4 +1,4 @@
-﻿namespace DotNetPatterns.Builder
+﻿namespace DotNetPatterns
 {
     public interface IBuilder<out T>
     {

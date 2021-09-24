@@ -1,4 +1,4 @@
-﻿namespace DotNetPatterns.Decorator
+﻿namespace DotNetPatterns
 {
     public interface IFactory<out T>
     {

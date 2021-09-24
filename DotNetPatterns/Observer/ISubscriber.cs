@@ -1,4 +1,4 @@
-﻿namespace DotNetPatterns.Observer
+﻿namespace DotNetPatterns
 {
     public interface ISubscriber
     {

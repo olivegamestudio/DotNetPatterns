@@ -1,4 +1,4 @@
-﻿namespace DotNetPatterns.Memento
+﻿namespace DotNetPatterns
 {
     public interface IOriginator<T>
     {

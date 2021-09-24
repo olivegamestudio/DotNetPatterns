@@ -1,4 +1,4 @@
-﻿namespace DotNetPatterns.Prototype
+﻿namespace DotNetPatterns
 {
     public interface IClone<out T>
     {

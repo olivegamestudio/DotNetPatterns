@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DotNetPatterns.Observer
+namespace DotNetPatterns
 {
     public class Unsubscriber<T> : IDisposable
     {

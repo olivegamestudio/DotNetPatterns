@@ -1,4 +1,4 @@
-﻿namespace DotNetPatterns.Mediator
+﻿namespace DotNetPatterns
 {
     public interface IMediator
     {
